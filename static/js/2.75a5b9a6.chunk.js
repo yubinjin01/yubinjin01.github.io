@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmui_profile=self.webpackChunkmui_profile||[]).push([[2],{6002:(e,u,s)=>{s.r(u),s.d(u,{default:()=>f});const f="## \u70b9\u8bc4\n\u91cf\u975e\u5e38\u5927\uff0c\u7f8a\u8089\u5496\u55b1\u5f88\u5165\u5473\uff0c\u914d\u4e0a\u8106\u997c\uff0c\u9e21\u86cb\uff0c\u852c\u83dc\uff0c\u8425\u517b\u5341\u5206\u5747\u8861\u3002"}}]);
+//# sourceMappingURL=2.75a5b9a6.chunk.js.map
